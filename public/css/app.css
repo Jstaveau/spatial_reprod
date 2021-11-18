@@ -17233,7 +17233,9 @@ textarea.form-control-lg {
   }
 }
 header {
-  background: url("../../../public/img/banner.jpg");
+  background-image: url("/public/img/banner.jpg");
+  background-size: cover;
+  height: 100vh;
 }
 
 /*# sourceMappingURL=app.css.map */
